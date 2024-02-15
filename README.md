@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dfi-8
-- 👀 I’m interested in ETH / Metaverse / Internet Computer
-- 🌱 I’m currently learning  Solidity, would love to learn Motoko aswell.
+- 👀 I’m interested in ETH / Metaverse / defi
+- 🌱 I’m currently learning  Solidity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
